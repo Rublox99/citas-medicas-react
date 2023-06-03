@@ -4,7 +4,7 @@ import Header from './components/Header'
 import Formulario from './components/Formulario'
 import ListadoPacientes from './components/ListadoPacientes'
 
-function App() {
+function App() { 
 
   {/*ARREGLO VACÍO INICIAL DE PACIENTES*/ }
     /*REVISA SI HAY ITEMS EN LOCALSTORAGE PARA RECUPERARLOS y si existe el item en LS para agregarlo al state inicial de pacientes JSON.parse convierte de string a arreglo*/
