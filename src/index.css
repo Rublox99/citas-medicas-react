@@ -1,0 +1,5 @@
+/*Llama los archivos internos de tailwind mediante los archivos de configuracion*/
+@tailwind base; 
+@tailwind components;
+@tailwind utilities;
+
